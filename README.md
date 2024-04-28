@@ -1,6 +1,6 @@
 # OODP_project_Monney_manager
 
-Groupmembers
+Groupmembers  
 Thanaruk Kammarat 6631503021  
 Pirisa Kitichai 6631503031  
 Maneenat Wantanasri 6631503035  
@@ -17,7 +17,7 @@ Rational : Simplicity and Accessibility The decision to implement the applicatio
 ensures that it is simple enough for users unfamiliar with more complex financial software. This simplicity also 
 makes it highly accessible and easy to modify or extend.
 
-List of functions
+List of functions  
 The system provides functionality for money management
 1. Display money management menu
 2. Select want to do from the menu
