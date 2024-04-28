@@ -27,5 +27,5 @@ The system provides functionality for money management
 6. Can display income and expenses 
 7. Exit the application. 
 
-Class Diagram
-![diagram](pjood.drawio.png)
+Class Diagram  
+![Diagram](photo/pjood.drawio.png)
